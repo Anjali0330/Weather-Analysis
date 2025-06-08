@@ -47,6 +47,3 @@ The main analysis is contained in the Jupyter notebook:
 
 This project demonstrates how to perform basic exploratory data analysis on weather data, including data cleaning, filtering, and visualization. The insights gained can serve as a foundation for further analysis, such as predictive modeling or deeper statistical exploration.
 
-## License
-
-This project is for educational purposes. Please cite the data source if you use this analysis elsewhere.
